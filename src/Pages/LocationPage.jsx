@@ -2,7 +2,7 @@
 import React from "react";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { useParams } from "react-router-dom";
-import { statesOfIndia } from "../location";
+import { statesOfIndia } from "../Location";
 
 
 const Location = () => {
