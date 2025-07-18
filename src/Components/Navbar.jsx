@@ -187,6 +187,11 @@ const Navbar = () => {
                 About
               </Link>
             </li>
+            <li>
+              <Link to="/market-place" className="cursor-pointer select-none hover:text-[#2E4E52] transition-colors">
+                Market Place
+              </Link>
+            </li>
             <li 
               className="relative"
               ref={dropdownRef}
